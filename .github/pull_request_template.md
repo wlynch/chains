@@ -18,6 +18,6 @@ As the author of this PR, please check off the items in this checklist:
 
 # Release Notes
 
-``` release-note
+```release-note
 NONE
 ```
